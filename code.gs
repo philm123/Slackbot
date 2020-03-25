@@ -1,5 +1,5 @@
 function postToSlack() {
-  var webhookUrl = 'https://hooks.slack.com/services/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';
+  var webhookUrl = 'https://hooks.slack.com/services/XXXXXX/YYYYYYY';
   var googleSheetId = "1zkBxS2tBoBmStbwb09kOvwIFyeBq0rnJhEzMIi9mz_A"
   var namedRange = "cta";
   var sheets = SpreadsheetApp.openById(googleSheetId);
